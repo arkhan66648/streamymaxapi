@@ -3,59 +3,59 @@
   "data": [
     {
       "id": 14,
-      "name": "American Football",
-      "sport_code": "Football",
-      "image": "",
+      "name": "American-football",
+      "sport_code": "American-football",
+      "image": "https://kora-api.top/uploads/categories/category_14.png",
       "count": 0
     },
     {
       "id": 4,
       "name": "Basketball",
       "sport_code": "basketball",
-      "image": "",
+      "image": "https://kora-api.top/uploads/categories/category_4.png",
       "count": 1
     },
     {
       "id": 13,
       "name": "Baseball",
       "sport_code": "Baseball",
-      "image": "",
+      "image": "https://kora-api.top/uploads/categories/category_13.png",
       "count": 0
     },
     {
       "id": 16,
       "name": "Hockey",
       "sport_code": "hockey",
-      "image": "",
+      "image": "https://kora-api.top/uploads/categories/category_16.png",
       "count": 0
     },
     {
       "id": 15,
-      "name": "Motor Sport",
-      "sport_code": "racing",
-      "image": "",
+      "name": "Motor-sports",
+      "sport_code": "motor-sports",
+      "image": "https://kora-api.top/uploads/categories/category_15.png",
       "count": 17
     },
     {
       "id": 99,
       "name": "Tennis",
       "sport_code": "tennis",
-      "image": "",
+      "image": "https://kora-api.top/uploads/categories/category_99.png",
       "count": 1
     },
     {
       "id": 18,
-      "name": "Boxing",
-      "sport_code": "boxing",
-      "image": "",
-      "count": 2
+      "name": "Fight",
+      "sport_code": "Fight",
+      "image": "https://kora-api.top/uploads/categories/category_18.png",
+      "count": 3
     },
     {
       "id": 17,
-      "name": "Fight MMA",
-      "sport_code": "mma",
-      "image": "",
-      "count": 1
+      "name": "Fight",
+      "sport_code": "Fight",
+      "image": "https://kora-api.top/uploads/categories/category_17.png",
+      "count": 3
     },
     {
       "id": 20,
@@ -68,7 +68,7 @@
       "id": 9,
       "name": "Football",
       "sport_code": "Soccer",
-      "image": "",
+      "image": "https://static.vecteezy.com/system/resources/previews/015/720/560/non_2x/abstract-creative-football-illustration-isolated-on-transparent-background-free-png.png",
       "count": 76
     }
   ]
