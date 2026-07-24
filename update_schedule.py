@@ -190,7 +190,7 @@ def generate_outputs(matches):
                 "edge_domain": "w1.sportsonlinee.click",
             })
 
-    output_dir = Path("output")
+    output_dir = Path(".")
     output_dir.mkdir(exist_ok=True)
 
     api_dir = output_dir / "api"
