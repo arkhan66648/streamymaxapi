@@ -1,0 +1,75 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 14,
+      "name": "American Football",
+      "sport_code": "Football",
+      "image": "",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Basketball",
+      "sport_code": "basketball",
+      "image": "",
+      "count": 1
+    },
+    {
+      "id": 13,
+      "name": "Baseball",
+      "sport_code": "Baseball",
+      "image": "",
+      "count": 0
+    },
+    {
+      "id": 16,
+      "name": "Hockey",
+      "sport_code": "hockey",
+      "image": "",
+      "count": 0
+    },
+    {
+      "id": 15,
+      "name": "Motor Sport",
+      "sport_code": "racing",
+      "image": "",
+      "count": 17
+    },
+    {
+      "id": 99,
+      "name": "Tennis",
+      "sport_code": "tennis",
+      "image": "",
+      "count": 1
+    },
+    {
+      "id": 18,
+      "name": "Boxing",
+      "sport_code": "boxing",
+      "image": "",
+      "count": 2
+    },
+    {
+      "id": 17,
+      "name": "Fight MMA",
+      "sport_code": "mma",
+      "image": "",
+      "count": 1
+    },
+    {
+      "id": 20,
+      "name": "WWE",
+      "sport_code": "wwe",
+      "image": "",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Football",
+      "sport_code": "Soccer",
+      "image": "",
+      "count": 76
+    }
+  ]
+}

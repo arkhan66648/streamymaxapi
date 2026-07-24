@@ -1,0 +1,4463 @@
+{
+  "status": "success",
+  "generated_at": "2026-07-24T23:33:00.063465",
+  "total": 99,
+  "per_page": 200,
+  "data": [
+    {
+      "id": "e9000ed1",
+      "name": "Tennis: ATP World Tour 250: Kitzbuhel 2026",
+      "slug": "tennis-atp-world-tour-250-kitzbuhel-2026",
+      "category": {
+        "id": 99,
+        "name": "Tennis",
+        "sport_code": "tennis"
+      },
+      "begin_at": "2026-07-24T11:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv4.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "68a5f7cd",
+      "name": "Swansea City x Udinese",
+      "slug": "swansea-city-x-udinese",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-24T12:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv2.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "e44be12a",
+      "name": "Hungarian F1 GP: Practice 1",
+      "slug": "hungarian-f1-gp-practice-1",
+      "category": {
+        "id": 15,
+        "name": "Motor Sport",
+        "sport_code": "racing"
+      },
+      "begin_at": "2026-07-24T12:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd2.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "e44be12a",
+      "name": "Hungarian F1 GP: Practice 1",
+      "slug": "hungarian-f1-gp-practice-1",
+      "category": {
+        "id": 15,
+        "name": "Motor Sport",
+        "sport_code": "racing"
+      },
+      "begin_at": "2026-07-24T12:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd8.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "e44be12a",
+      "name": "Hungarian F1 GP: Practice 1",
+      "slug": "hungarian-f1-gp-practice-1",
+      "category": {
+        "id": 15,
+        "name": "Motor Sport",
+        "sport_code": "racing"
+      },
+      "begin_at": "2026-07-24T12:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/bra/br3.php",
+          "lang": "Brazilian",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "b2f1bdb6",
+      "name": "Hungarian F1 GP: Practice 2",
+      "slug": "hungarian-f1-gp-practice-2",
+      "category": {
+        "id": 15,
+        "name": "Motor Sport",
+        "sport_code": "racing"
+      },
+      "begin_at": "2026-07-24T15:45:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd2.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "b2f1bdb6",
+      "name": "Hungarian F1 GP: Practice 2",
+      "slug": "hungarian-f1-gp-practice-2",
+      "category": {
+        "id": 15,
+        "name": "Motor Sport",
+        "sport_code": "racing"
+      },
+      "begin_at": "2026-07-24T15:45:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd8.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "b2f1bdb6",
+      "name": "Hungarian F1 GP: Practice 2",
+      "slug": "hungarian-f1-gp-practice-2",
+      "category": {
+        "id": 15,
+        "name": "Motor Sport",
+        "sport_code": "racing"
+      },
+      "begin_at": "2026-07-24T15:45:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/bra/br3.php",
+          "lang": "Brazilian",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "cd25433c",
+      "name": "AFC Bournemouth x St. Pauli",
+      "slug": "afc-bournemouth-x-st-pauli",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-24T16:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv2.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "9942637b",
+      "name": "Rosenborg x Manchester United",
+      "slug": "rosenborg-x-manchester-united",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-24T17:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd1.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "4a8ad942",
+      "name": "Antwerp x Olympiakos Piraeus",
+      "slug": "antwerp-x-olympiakos-piraeus",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-24T18:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd4.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "3fe78805",
+      "name": "Benfica x Belenenses",
+      "slug": "benfica-x-belenenses",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-24T18:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/btv.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "fbbaf9b7",
+      "name": "CSKA Moskva x Baltika",
+      "slug": "cska-moskva-x-baltika",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-24T18:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd10.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "e1b6b550",
+      "name": "Galatasaray x Monza",
+      "slug": "galatasaray-x-monza",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-24T19:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd7.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "60dee0fe",
+      "name": "Pogoń Szczecin x Legia Warszawa",
+      "slug": "pogo-szczecin-x-legia-warszawa",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-24T19:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd11.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "e4a8d478",
+      "name": "Gimnasia Mendoza x Central Córdoba SdE",
+      "slug": "gimnasia-mendoza-x-central-crdoba-sde",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-24T20:45:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd9.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "78ed5e2e",
+      "name": "Guatemala U20 x Costa Rica U20",
+      "slug": "guatemala-u20-x-costa-rica-u20",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-24T21:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd6.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "16125c25",
+      "name": "Vélez Sarsfield x Instituto",
+      "slug": "vlez-sarsfield-x-instituto",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-24T23:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd9.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "cf54765c",
+      "name": "Racing Club x Gimnasia La Plata",
+      "slug": "racing-club-x-gimnasia-la-plata",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-24T23:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd10.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "8723181f",
+      "name": "Flamengo W x Grêmio W",
+      "slug": "flamengo-w-x-grmio-w",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-24T23:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/bra/br1.php",
+          "lang": "Brazilian",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "e9135326",
+      "name": "Mexico U20 x Antigua and Barbuda U20",
+      "slug": "mexico-u20-x-antigua-and-barbuda-u20",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-24T00:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd6.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "14c4b7f3",
+      "name": "Cruzeiro W x São Paulo W",
+      "slug": "cruzeiro-w-x-so-paulo-w",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-24T01:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/bra/br1.php",
+          "lang": "Brazilian",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "7fb2df90",
+      "name": "NASCAR Truck Series: NTCS - Lucas Oil Indianopolis",
+      "slug": "nascar-truck-series-ntcs-lucas-oil-indianopolis",
+      "category": {
+        "id": 15,
+        "name": "Motor Sport",
+        "sport_code": "racing"
+      },
+      "begin_at": "2026-07-24T01:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv4.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "61f86fc8",
+      "name": "Platense x Unión Santa Fe",
+      "slug": "platense-x-unin-santa-fe",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-24T01:15:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd9.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "e01b220f",
+      "name": "Huracán x Banfield",
+      "slug": "huracn-x-banfield",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-24T01:15:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd10.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "a936db1e",
+      "name": "Atlante x América",
+      "slug": "atlante-x-amrica",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-24T04:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd6.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "00873799",
+      "name": "Celta de Vigo x Sporting Gijón",
+      "slug": "celta-de-vigo-x-sporting-gijn",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T11:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd10.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "aff98584",
+      "name": "Lens x Sporting Charleroi",
+      "slug": "lens-x-sporting-charleroi",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T11:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd4.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "40bfef03",
+      "name": "Hungarian F1 GP: Practice 3",
+      "slug": "hungarian-f1-gp-practice-3",
+      "category": {
+        "id": 15,
+        "name": "Motor Sport",
+        "sport_code": "racing"
+      },
+      "begin_at": "2026-07-25T11:15:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd2.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "40bfef03",
+      "name": "Hungarian F1 GP: Practice 3",
+      "slug": "hungarian-f1-gp-practice-3",
+      "category": {
+        "id": 15,
+        "name": "Motor Sport",
+        "sport_code": "racing"
+      },
+      "begin_at": "2026-07-25T11:15:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd8.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "40bfef03",
+      "name": "Hungarian F1 GP: Practice 3",
+      "slug": "hungarian-f1-gp-practice-3",
+      "category": {
+        "id": 15,
+        "name": "Motor Sport",
+        "sport_code": "racing"
+      },
+      "begin_at": "2026-07-25T11:15:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/bra/br3.php",
+          "lang": "Brazilian",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "060928fb",
+      "name": "Fortuna Düsseldorf x Borussia Dortmund",
+      "slug": "fortuna-dsseldorf-x-borussia-dortmund",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T12:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd3.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "060928fb",
+      "name": "Fortuna Düsseldorf x Borussia Dortmund",
+      "slug": "fortuna-dsseldorf-x-borussia-dortmund",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T12:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv2.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "616bb1c6",
+      "name": "Shanghai Port x Shanghai Shenhua",
+      "slug": "shanghai-port-x-shanghai-shenhua",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T12:35:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd6.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "fe899d02",
+      "name": "Kickers Offenbach x Bayer Leverkusen",
+      "slug": "kickers-offenbach-x-bayer-leverkusen",
+      "category": {
+        "id": 4,
+        "name": "Basketball",
+        "sport_code": "basketball"
+      },
+      "begin_at": "2026-07-25T14:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd5.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "2048f270",
+      "name": "AZ x Olympiakos Piraeus",
+      "slug": "az-x-olympiakos-piraeus",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T14:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd11.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "2048f270",
+      "name": "AZ x Olympiakos Piraeus",
+      "slug": "az-x-olympiakos-piraeus",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T14:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv4.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "f61a4e5f",
+      "name": "Hungarian F1 GP: Qualifying",
+      "slug": "hungarian-f1-gp-qualifying",
+      "category": {
+        "id": 15,
+        "name": "Motor Sport",
+        "sport_code": "racing"
+      },
+      "begin_at": "2026-07-25T14:15:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd2.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "f61a4e5f",
+      "name": "Hungarian F1 GP: Qualifying",
+      "slug": "hungarian-f1-gp-qualifying",
+      "category": {
+        "id": 15,
+        "name": "Motor Sport",
+        "sport_code": "racing"
+      },
+      "begin_at": "2026-07-25T14:15:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd8.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "f61a4e5f",
+      "name": "Hungarian F1 GP: Qualifying",
+      "slug": "hungarian-f1-gp-qualifying",
+      "category": {
+        "id": 15,
+        "name": "Motor Sport",
+        "sport_code": "racing"
+      },
+      "begin_at": "2026-07-25T14:15:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/bra/br3.php",
+          "lang": "Brazilian",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "f5f79307",
+      "name": "Wehen Wiesbaden x Bayern München",
+      "slug": "wehen-wiesbaden-x-bayern-mnchen",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T14:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd9.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "303d8438",
+      "name": "Celtic x Milan",
+      "slug": "celtic-x-milan",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T15:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd7.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "303d8438",
+      "name": "Celtic x Milan",
+      "slug": "celtic-x-milan",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T15:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv2.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "3349a362",
+      "name": "Bolton Wanderers x Everton",
+      "slug": "bolton-wanderers-x-everton",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T15:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv2.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "e3078ffc",
+      "name": "Queens Park Rangers x Fiorentina",
+      "slug": "queens-park-rangers-x-fiorentina",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T15:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv3.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "c10d4148",
+      "name": "Olympique Marseille x Nice",
+      "slug": "olympique-marseille-x-nice",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T17:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd4.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "600da4cd",
+      "name": "PSV x Villarreal",
+      "slug": "psv-x-villarreal",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T17:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd6.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "583d27c3",
+      "name": "UFC Fight Night: Magomed Ankalaev v Bogdan Guskov",
+      "slug": "ufc-fight-night-magomed-ankalaev-v-bogdan-guskov",
+      "category": {
+        "id": 17,
+        "name": "Fight MMA",
+        "sport_code": "mma"
+      },
+      "begin_at": "2026-07-25T17:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd2.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "af08b81c",
+      "name": "Real Oviedo x Deportivo La Coruña",
+      "slug": "real-oviedo-x-deportivo-la-corua",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T18:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd10.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "68eb98b4",
+      "name": "Estudiantes Río Cuarto x Tigre",
+      "slug": "estudiantes-ro-cuarto-x-tigre",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T18:45:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd9.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "0e799d85",
+      "name": "Standard Liège x Juventus",
+      "slug": "standard-lige-x-juventus",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T19:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd7.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "5226af6d",
+      "name": "Standard Lieja x Juventus",
+      "slug": "standard-lieja-x-juventus",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T19:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd11.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "7c68bf67",
+      "name": "Valencia x CD Castellon",
+      "slug": "valencia-x-cd-castellon",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T19:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd6.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "9f5199d5",
+      "name": "Estoril x Torreense",
+      "slug": "estoril-x-torreense",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T19:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv3.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "f6610e5d",
+      "name": "Sporting CP x Monaco",
+      "slug": "sporting-cp-x-monaco",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T19:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv1.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "997d3bbe",
+      "name": "Porto x Aston Villa",
+      "slug": "porto-x-aston-villa",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T20:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd5.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "997d3bbe",
+      "name": "Porto x Aston Villa",
+      "slug": "porto-x-aston-villa",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T20:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv2.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "10ac12c1",
+      "name": "Athletico-PR x Internacional",
+      "slug": "athletico-pr-x-internacional",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T22:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/bra/br2.php",
+          "lang": "Brazilian",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "e69f7c7a",
+      "name": "Santos x Chapecoense",
+      "slug": "santos-x-chapecoense",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T22:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/bra/br1.php",
+          "lang": "Brazilian",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "d4e4c0bf",
+      "name": "Liverpool x Sunderland",
+      "slug": "liverpool-x-sunderland",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T23:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd1.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "d4e4c0bf",
+      "name": "Liverpool x Sunderland",
+      "slug": "liverpool-x-sunderland",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T23:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv1.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "bf61e363",
+      "name": "River Plate x Barracas Central",
+      "slug": "river-plate-x-barracas-central",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T23:15:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd9.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "56d15694",
+      "name": "Wrexham x Leeds United",
+      "slug": "wrexham-x-leeds-united",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T00:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd5.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "56d15694",
+      "name": "Wrexham x Leeds United",
+      "slug": "wrexham-x-leeds-united",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T00:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv4.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "be842b3b",
+      "name": "Vasco da Gama x Mirassol",
+      "slug": "vasco-da-gama-x-mirassol",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T00:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/bra/br4.php",
+          "lang": "Brazilian",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "d302b2c6",
+      "name": "CF Montréal x Inter Miami",
+      "slug": "cf-montral-x-inter-miami",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T00:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd10.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "fe38f2cc",
+      "name": "Auckland x Tottenham Hotspur",
+      "slug": "auckland-x-tottenham-hotspur",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T04:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv1.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "dbb1c2e9",
+      "name": "Tigres UANL x Atlético San Luis",
+      "slug": "tigres-uanl-x-atltico-san-luis",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-25T04:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd11.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "d291be68",
+      "name": "Ajax x Burnley",
+      "slug": "ajax-x-burnley",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T13:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd4.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "d291be68",
+      "name": "Ajax x Burnley",
+      "slug": "ajax-x-burnley",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T13:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv2.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "ea257b37",
+      "name": "PEC Zwolle x AEK Athens",
+      "slug": "pec-zwolle-x-aek-athens",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T14:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd11.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "c8b6316e",
+      "name": "Hungarian F1 Grand Prix",
+      "slug": "hungarian-f1-grand-prix",
+      "category": {
+        "id": 15,
+        "name": "Motor Sport",
+        "sport_code": "racing"
+      },
+      "begin_at": "2026-07-26T14:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd2.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "c8b6316e",
+      "name": "Hungarian F1 Grand Prix",
+      "slug": "hungarian-f1-grand-prix",
+      "category": {
+        "id": 15,
+        "name": "Motor Sport",
+        "sport_code": "racing"
+      },
+      "begin_at": "2026-07-26T14:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd1.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "c8b6316e",
+      "name": "Hungarian F1 Grand Prix",
+      "slug": "hungarian-f1-grand-prix",
+      "category": {
+        "id": 15,
+        "name": "Motor Sport",
+        "sport_code": "racing"
+      },
+      "begin_at": "2026-07-26T14:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd8.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "c8b6316e",
+      "name": "Hungarian F1 Grand Prix",
+      "slug": "hungarian-f1-grand-prix",
+      "category": {
+        "id": 15,
+        "name": "Motor Sport",
+        "sport_code": "racing"
+      },
+      "begin_at": "2026-07-26T14:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/bra/br3.php",
+          "lang": "Brazilian",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "59ebd6b8",
+      "name": "Trabzonspor x Eintracht Frankfurt",
+      "slug": "trabzonspor-x-eintracht-frankfurt",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T14:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd3.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "59ebd6b8",
+      "name": "Trabzonspor x Eintracht Frankfurt",
+      "slug": "trabzonspor-x-eintracht-frankfurt",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T14:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv4.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "77e246f9",
+      "name": "Karlsruher SC x Internazionale",
+      "slug": "karlsruher-sc-x-internazionale",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T15:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd7.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "77e246f9",
+      "name": "Karlsruher SC x Internazionale",
+      "slug": "karlsruher-sc-x-internazionale",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T15:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv2.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "cea82e63",
+      "name": "Napoli x Carrarese",
+      "slug": "napoli-x-carrarese",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T17:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd8.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "c34e63a8",
+      "name": "Roma x Cannes",
+      "slug": "roma-x-cannes",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T17:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd9.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "1e5b6230",
+      "name": "Bursaspor x Shakhtar Donetsk",
+      "slug": "bursaspor-x-shakhtar-donetsk",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T18:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd10.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "ee8c0a48",
+      "name": "Darts: World Matchplay Darts Final",
+      "slug": "darts-world-matchplay-darts-final",
+      "category": {
+        "id": 0,
+        "name": "Other",
+        "sport_code": "other"
+      },
+      "begin_at": "2026-07-26T19:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd1.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "98725af4",
+      "name": "Sevilla x Ceuta",
+      "slug": "sevilla-x-ceuta",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T20:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv1.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "adf4619e",
+      "name": "Bahia x Corinthians",
+      "slug": "bahia-x-corinthians",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T20:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/bra/br5.php",
+          "lang": "Brazilian",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "15034c83",
+      "name": "São Bernardo FC x Ceará",
+      "slug": "so-bernardo-fc-x-cear",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T20:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/bra/br6.php",
+          "lang": "Brazilian",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "09b283b4",
+      "name": "Cruzeiro x Botafogo",
+      "slug": "cruzeiro-x-botafogo",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T20:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/bra/br2.php",
+          "lang": "Brazilian",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "6baeae27",
+      "name": "Estudiantes x Independiente",
+      "slug": "estudiantes-x-independiente",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T21:15:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd9.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "d3f499fb",
+      "name": "Boxing: Zuffa Boxing: Prelims",
+      "slug": "boxing-zuffa-boxing-prelims",
+      "category": {
+        "id": 18,
+        "name": "Boxing",
+        "sport_code": "boxing"
+      },
+      "begin_at": "2026-07-26T22:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": false,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd1.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "e56ea1ba",
+      "name": "Grêmio x Fluminense",
+      "slug": "grmio-x-fluminense",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T22:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/bra/br4.php",
+          "lang": "Brazilian",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "dca419f7",
+      "name": "Flamengo x São Paulo",
+      "slug": "flamengo-x-so-paulo",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T22:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/bra/br1.php",
+          "lang": "Brazilian",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "935b9c65",
+      "name": "RB Bragantino x Coritiba",
+      "slug": "rb-bragantino-x-coritiba",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T22:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/bra/br5.php",
+          "lang": "Brazilian",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "fe878eec",
+      "name": "Banfield x Sarmiento",
+      "slug": "banfield-x-sarmiento",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T23:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd9.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "d4afa575",
+      "name": "Deportivo Riestra x Boca Juniors",
+      "slug": "deportivo-riestra-x-boca-juniors",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T23:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd10.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "d4afa575",
+      "name": "Deportivo Riestra x Boca Juniors",
+      "slug": "deportivo-riestra-x-boca-juniors",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T23:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/pt/sporttv1.php",
+          "lang": "Portuguese",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "123d7279",
+      "name": "Palmeiras x Atlético Mineiro",
+      "slug": "palmeiras-x-atltico-mineiro",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T23:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/bra/br2.php",
+          "lang": "Brazilian",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "cf337988",
+      "name": "Remo x Vitória",
+      "slug": "remo-x-vitria",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T23:30:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/bra/br6.php",
+          "lang": "Brazilian",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "f3f99a3b",
+      "name": "Boxing: Zuffa Boxing:  Hamzah Sheeraz vs Steven Butler",
+      "slug": "boxing-zuffa-boxing-hamzah-sheeraz-vs-steven-butler",
+      "category": {
+        "id": 18,
+        "name": "Boxing",
+        "sport_code": "boxing"
+      },
+      "begin_at": "2026-07-26T01:00:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd1.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    },
+    {
+      "id": "6ab9bf08",
+      "name": "Rosario Central x Racing Club",
+      "slug": "rosario-central-x-racing-club",
+      "category": {
+        "id": 9,
+        "name": "Football",
+        "sport_code": "Soccer"
+      },
+      "begin_at": "2026-07-26T01:15:00",
+      "end_at": null,
+      "is_live": false,
+      "is_popular": true,
+      "has_channels": true,
+      "edges": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15",
+        "a16",
+        "a17",
+        "a18",
+        "a19",
+        "a20"
+      ],
+      "streams": [
+        {
+          "url": "https://w1.sportsonlinee.click/channels/hd/hd9.php",
+          "lang": "English",
+          "quality": "HD"
+        }
+      ],
+      "stream_count": 1
+    }
+  ]
+}

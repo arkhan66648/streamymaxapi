@@ -74,7 +74,12 @@ def detect_lang_from_url(url):
 
 def fetch_prog():
     print(f"Fetching {PROG_URL}...")
-    with urllib.request.urlopen(PROG_URL, timeout=30) as r:
+    req = urllib.request.Request(PROG_URL, headers={
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/plain, */*",
+        "Referer": "https://sportsonline.st/",
+    })
+    with urllib.request.urlopen(req, timeout=30) as r:
         content = r.read().decode('utf-8')
     print(f"Fetched {len(content)} chars")
     return content
