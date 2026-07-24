@@ -738,7 +738,7 @@ function seRenderMatches(){
         const icon     = seGetSportIcon(sport, catName);
         return `
 <li class="f1-podium--item${m.is_live ? ' btn-live' : ''}">
-    <a href="https://streameast.smartagro.mov${SE_API_SOURCE === 'fallback' ? '/strmd-stream.html' : '/stream.html'}?id=${m.id}" class="f1-podium--link f1-bg--white" target="_blank" rel="nofollow noreferrer noopener">
+    <a href="https://arkhan66648.github.io/streamymaxapi-gate${SE_API_SOURCE === 'fallback' ? '/strmd-stream.html' : '/stream.html'}?id=${m.id}" class="f1-podium--link f1-bg--white" target="_blank" rel="nofollow noreferrer noopener">
         <span class="f1-podium--rank f1-bold--xs se-cat-label" style="min-width:35px;width:unset;"><span class="se-sport-icon">${icon}</span>${catName}${(m.is_popular || m.popular) ? ' <span style="font-size:10px;background:#e10600;color:#fff;border-radius:3px;padding:1px 4px;vertical-align:middle;">HOT</span>' : ''}</span>
         <span class="team-color-icon" style="background-color:${catColor}"></span>
         <span class="f1-podium--driver f1--xs MacBaslik">
@@ -790,7 +790,7 @@ function seKoraRender(matches) {
         const awayLogo = m.away_logo ? `<img src="${SE_KORA_LOGOS}${m.away_logo}" width="20" height="20" style="vertical-align:middle;margin-right:4px;object-fit:contain;" onerror="this.style.display='none'" alt="${m.away_en}">` : '';
         const edges    = (m.edges || []).slice(0, 6);
         const streamUrl = (m.active == '1' && m.has_channels == '1')
-            ? `https://streameast.smartagro.mov/?m=${m.id}&lang=en`
+            ? `https://arkhan66648.github.io/streamymaxapi-gate/?m=${m.id}&lang=en`
             : (edges.length && m.edge_domain ? `#` : '#');
 
         return `
