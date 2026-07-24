@@ -1,108 +1,926 @@
-<!DOCTYPE html>
-<html lang="en">
+﻿<!DOCTYPE html>
+<html translate="no" lang="en-US">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Access Denied - Service Temporarily Unavailable</title>
-    <meta name="robots" content="noindex, nofollow">
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>StreamEast – Watch NBA, NFL, UFC, NHL, MLB & Soccer | Free Live Streams 2026</title>
+    <meta name="description" content="StreamEast delivers instant free access to live NBA, NFL, NHL, MLB, UFC, soccer, F1, WWE and boxing streams in HD. No sign-up, no fees — just click and watch.">
+    <meta name="keywords" content="streameast, streameast live, free sports streaming, watch NBA free, NFL streams 2026, UFC live stream, soccer streams, MLB live, NHL free stream, streameast reddit, HD sports streams">
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+ 
+    <meta name="twitter:card" content="summary_large_image" />
+
+     <!-- logo all sizes -->
+    <link rel="icon" type="image/x-icon" href="https://streamymax.com/assets/images/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="16x16" href="https://streamymax.com/assets/images/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://streamymax.com/assets/images/favicon-32x32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://streamymax.com/assets/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://streamymax.com/assets/images/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="https://streamymax.com/assets/images/android-chrome-512x512.png">
+    
+    <!-- Mobile Optimization -->
+    <meta name="theme-color" content="#E10601">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="StreamEast">
+ 
+<link rel="preconnect" href="https://stackpath.bootstrapcdn.com" crossorigin>
+<link rel="preconnect" href="https://ajax.googleapis.com" crossorigin>
+    <link href="https://istreameast.app/fonts/formula1-bold.woff" type="font/woff2">
+    <link href="https://istreameast.app/fonts/formula1-wide.woff" type="font/woff2">
+    <link href="https://istreameast.app/fonts/formula1-regular.woff" type="font/woff2">
+    <link href="/css/app.css" rel="stylesheet"/>
+    <link rel="shortcut icon" type="image/x-icon" href="https://streamymax.com/assets/images/favicon.ico"/>
+
+<style>
+.wide-title{
+font-size: 25px !important;
+}
+        body {
+            background-color: #282828 !important;
+        }
+@media  print {
+  .element-to-hide {
+    display: none;
+  }
+}
+    </style>
+
+<style>
+.x-btn{
+font-family:'Roboto' !important
+}
+        .score {
+            color: #fff;
+            background-color: #dc3545;
+            border-color: #dc3545;
+            padding: 2px 6px;
+            border-radius: 5px;
+            line-height: 0;
+            font-size: 20px;
+        }
+
+        .d-block {
+            display: block;
+        }
+
+        .event-name, .time {
+            color: #000;
+        }
+
+        .top-headline-item {
+            cursor: pointer;
+            display: flex;
+            margin-top: 20px;
+            transition: all .5s ease-in;
+            box-shadow: rgb(0 0 0 / 10%) 0 10px 50px;
+            background-color: #38383f;
+        }
+
+        .top-headlines-image-wrapper {
+            max-height: 167px;
+            min-height: 167px;
+            width: 100%;
+            height: 100%;
+        }
+
+        .top-headlines-image-wrapper img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+.BilgilendirmeUyari {
+    background-color: #18181B;
+    border: 1px solid #6b0f0e;
+    width: 100%;
+    border-radius: 3px;
+    padding: 0.75rem 1.25rem;
+    color: #ededed !important;
+}
+.BilgilendirmeUyari a{
+    color: #ededed !important;
+}
+
+#DuyurularDuyuru {
+    margin-top: 25px;
+}
+        .top-headline-article-container {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            padding: 10px;
+        }
+
+        .top-headline-article-data {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            font-size: 13px;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            font-family: sans-serif;
+        }
+
+        .top-headline-article-date {
+            font-size: 11px;
+            font-style: italic;
+            color: #a0a0a0;
+        }
+
+        .top-headline-article-title {
+            font-weight: 700;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+        }
+
+        .f1-podium--link {
+            color: #000;
+        }
+
+        #blog-container img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+        }
+
+
+        .under-card-events li {
+            display: flex;
+            padding: 13px;
+            border-radius: 10px;
+            text-align: center;
+            margin: 10px 0;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #343a40 !important;
+            border: 1px solid #343a40 !important;
+        }
+
+        .name-under-card-name {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .theater-mode {
+            position: fixed !important;
+            top: 0 !important;
+            left: 0 !important;
+            z-index: 99999;
+        }
+
+        .theater-mode-btn-close {
+            position: fixed;
+            bottom: 45px;
+            z-index: 999999;
+        }
+
+        .theater-mode-chat {
+            position: fixed;
+            top: 0;
+            right: 0;
+            z-index: 99999;
+        }
+
+        ul {
+            margin-bottom: 0;
+        }
+
+        .nav-width {
+            max-width: 1320px;
+            margin: auto;
+        }
+
+        .site-nav {
+            overflow: visible;
+    display: flex;
+        }
+
+        body {
+            margin-top: 69px;
+        }
+        .navbar-toggler {
+            color: rgba(255,255,255,.5);
+            border-color: rgba(255,255,255,.1);
+        }
+        @media (min-width: 1200px){
+            .container {
+                max-width: 1320px;
+            }
+        }
+        .streams-table-new tbody tr td {
+            background-color: #212121 !important;
+            border: unset!important;
+        }
+        .navbar-toggler-icon{background-image:url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E")}
+    </style>
+
     <style>
         body {
+            background-color: #282828 !important;
+        }
+.f1-podium--item {
+margin:0;
+padding: 2px 0px;
+}
+        #Arama {
+            width: 100%;
+            padding: 15px;
             font-family: Arial, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            margin: 0;
-            padding: 0;
-            min-height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            text-align: center;
+            font-size: 18px;
+            border: 2px solid #e10601;
+            border-radius: 4px;
+            color: #000;
+            outline: none;
         }
-        .container {
-            max-width: 600px;
-            padding: 40px;
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 20px;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
-        }
-        h1 {
-            font-size: 3em;
-            margin-bottom: 20px;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-        }
-        p {
-            font-size: 1.2em;
-            margin-bottom: 30px;
-            line-height: 1.6;
-        }
-        .error-code {
-            font-size: 6em;
-            font-weight: bold;
-            color: #ff6b6b;
-            margin-bottom: 20px;
-        }
-        .message {
-            background: rgba(255, 255, 255, 0.05);
-            padding: 20px;
-            border-radius: 10px;
-            margin: 20px 0;
-            border-left: 4px solid #ff6b6b;
-        }
-        .home-btn {
-            background: rgba(255, 255, 255, 0.2);
-            color: white;
-            padding: 12px 30px;
-            border: 2px solid white;
-            border-radius: 30px;
-            text-decoration: none;
-            font-weight: bold;
-            transition: all 0.3s ease;
-            display: inline-block;
-            margin-top: 20px;
-        }
-        .home-btn:hover {
-            background: white;
-            color: #667eea;
-            transform: translateY(-2px);
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-        }
-        .lock-icon {
-            font-size: 4em;
-            margin-bottom: 20px;
-            opacity: 0.8;
-        }
-        @media (max-width: 480px) {
-            h1 { font-size: 2em; }
-            .container { padding: 20px; }
-            .error-code { font-size: 4em; }
+        #Arama:hover, #Arama:focus {
+            border-color: #ec13ef;
         }
     </style>
+
+    <style>
+        .nav-primary .logo::after {
+    content: '';
+            width: 0;
+            height: 0;
+            border-style: solid;
+            border-width: 0px 0px 69px 51px;
+            position: absolute;
+            right: 0;
+            border-color: transparent transparent #E10601 transparent;
+        }
+        .nav-primary {
+            background-image: linear-gradient(to left, #E10601 58%, #930f0d 42%);
+        }
+        .primary-links a:hover, .primary-links .link-text:hover {
+            background-color: #930f0d !important;
+            border: none !important;
+        }
+        #primaryNav .primary-links {
+            width: 70%;
+            float: left;
+        }
+        #KullaniciButonlari {
+            width: 20% !important;
+            float: left !important;
+            margin-top: 15px !important;
+        }
+        #KullaniciButonlari .btn:hover {
+            background-color: #383844 !important;
+        }
+        .MobilMacIsimleri {
+            display: none !important;
+        }
+        @media (max-width: 1023px) {
+            .MacBaslik { font-size: 12px !important; }
+            .MacBaslikSagTarih { font-size: 12px !important; }
+            .MacBaslikKat { font-size: 12px !important; }
+            .nav-primary { background-image: none; }
+            #primaryNav .primary-links { width: 100%; }
+            #KullaniciButonlari { width: 100% !important; }
+            #KullaniciButonlari li { width: 48% !important; margin-left: 1% !important; float: left; }
+            #KullaniciButonlari li a { width: 100% !important; }
+            #AcilirMenuUst { display: none !important; }
+            #CikisMobil { display: block !important; }
+            #BildirimlerMobil { display: none !important; }
+            .MobilMenu { display: block !important; }
+            .MobilMenuGizle { display: none !important; }
+            .MobilMacIsimleri { display: block !important; }
+            .MacIsimleri { display: none !important; }
+            .nav-primary .logo::after { border-width: 0px 0px 69px 30px; }
+        }
+        .f1-standings .f1-tab-content-wrapper:before { background: unset; }
+        .f1-standings .f1-tab-content-wrapper {
+            background-color: #282828;
+            height: 100%;
+        }
+        #Bildirimler {
+            width: 22%;
+            max-height: 90%;
+            overflow: auto;
+            top: 54px;
+            background-color: #15151E;
+            position: fixed;
+            border: 3px solid #E10601;
+            border-bottom-left-radius: 5px;
+            color: white;
+            display: none;
+            z-index: 9999;
+        }
+        #Bildirimler ul { list-style: none; margin: auto; padding: 0px; }
+        #Bildirimler ul li {
+            list-style: none;
+            margin: auto;
+            padding: 5px 8px;
+            line-height: 25px;
+            border-bottom: 1px solid #ddd;
+    font-size: 13px;
+            font-weight: normal;
+    overflow: hidden;
+            cursor: pointer;
+        }
+        #Bildirimler ul li p { margin-bottom: 0px; }
+        #Bildirimler ul li .BildirimTarih { font-size: 11px; float: left; color: #bbb; }
+        .f1-te-section {
+            margin-bottom: 20px;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-top: 5px;
+            padding: 20px;
+            border: 1px solid #E10601;
+            border-radius: 4px;
+            background-color: #f2f2f2;
+            color: #000;
+        }
+        .custom-more-link {
+            display: inline-block;
+            margin-left: 5px;
+    cursor: pointer;
+            color: #007bff;
+    text-decoration: none;
+            vertical-align: middle;
+        }
+        .custom-icon {
+            display: inline-block;
+            width: 24px;
+            height: 24px;
+            vertical-align: middle;
+            background: url(/images/35.png) no-repeat center center;
+            background-size: contain;
+            cursor: pointer;
+        }
+    </style>
+
+    <script>
+        function Arama2(){
+            var Kelime = document.getElementById('Arama').value.toUpperCase();
+            document.querySelectorAll('#GelecekMaclar .f1-podium--item').forEach(function(el) {
+                el.style.display = (!Kelime || el.textContent.toUpperCase().indexOf(Kelime) !== -1) ? 'flex' : 'none';
+            });
+        }
+    </script>
+
 </head>
-<body>
-    <div class="container">
-        <div class="lock-icon">🔒</div>
-        <h1>Access Denied</h1>
-        <div class="error-code">404 ERROR</div>
-        
-        <div class="message">
-            <strong>This domain has been seized by authorized authorities.</strong><br>
-            The requested service is temporarily unavailable.
+<body class="dark">
+
+<div style="height: 100%;">
+    <div class="site-wrapper" style="height: 100%;">
+
+        <header class="site-nav">
+            <div class="nav-mobile-wrapper remove-for-app">
+                <div class="nav-mobile-header mobile-nav-helper">
+                    <div class="nav-burger">
+                        <button class="navbar-toggler menu open" type="button" id="collapse-btn" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+            </div>
+                    <div class="logo" style="width: 230px;">
+                        <a href="https://streamymax.com/" style="margin-top: 7px; padding: 0px;">
+                            <span><img src="https://streamymax.com/assets/images/favicon-32x32.png" alt="StreamEast" width="30" height="30" style="vertical-align:middle;"> <strong style="color:#fff;font-size:1.3rem;letter-spacing:-0.5px;">STREAMEAST</strong></span>
+                        </a>
         </div>
-        
-        <p>
-            This service has been protected by security measures for unauthorized access.<br>
-            Please contact your system administrator for assistance.
-        </p>
-        
-        <div class="message">
-            <strong>Important Notice:</strong> This page may show a domain seizure banner.
-            Such displays are legally mandated to inform users of ongoing investigations
-            related to intellectual property rights and anti-piracy efforts.
-        </div>
-        
-        <a href="javascript:history.back()" class="home-btn">Go Back</a>
-    </div>
+                    <div class="user-links"></div>
+                        </div>
+
+                <div class="nav-wrapper">
+                    <div class="nav-primary table-footer-group" id="primaryNav">
+                        <div class="nav-width">
+                            <div class="logo" style="position: relative; float: left; overflow: hidden;">
+                                <a href="https://streamymax.com/" style="height: 69px;">
+                                    <span style="padding: 0px; width: 230px; margin-top: 20px; display:inline-block;">
+                                        <img src="https://streamymax.com/assets/images/favicon-32x32.png" alt="StreamEast" width="30" height="30" style="vertical-align:middle;">
+                                        <strong style="color:#fff;font-size:1.2rem;vertical-align:middle;margin-left:6px;">STREAMEAST</strong>
+                                    </span>
+                                </a>
+                        </div>
+                            <div class="primary-links">
+                                <ul style="background-color: #E10601;padding: 0;">
+                                    <li><a href="#nfl" data-locationinpage="navigation" data-pathtype="internal" class="nav-mainlink"><span class="link-text" style="border: none">NFL</span></a></li>
+                                    <li><a href="#nba" data-locationinpage="navigation" data-pathtype="internal" class="nav-mainlink"><span class="link-text" style="border: none">NBA</span></a></li>
+                                    <li><a href="#nhl" data-locationinpage="navigation" data-pathtype="internal" class="nav-mainlink"><span class="link-text" style="border: none">NHL</span></a></li>
+                                    <li><a href="#mlb" data-locationinpage="navigation" data-pathtype="internal" class="nav-mainlink"><span class="link-text" style="border: none">MLB</span></a></li>
+                                    <li><a href="#ufc" data-locationinpage="navigation" data-pathtype="internal" class="nav-mainlink"><span class="link-text" style="border: none">MMA/UFC</span></a></li>
+                                    <li><a href="#soccer" data-locationinpage="navigation" data-pathtype="internal" class="nav-mainlink"><span class="link-text" style="border: none">SOCCER</span></a></li>
+                                    <li><a href="#features" data-locationinpage="navigation" data-pathtype="internal" class="nav-mainlink"><span class="link-text" style="border: none">Features</span></a></li>
+                                    <li><a href="#faq" data-locationinpage="navigation" data-pathtype="internal" class="nav-mainlink"><span class="link-text" style="border: none">FAQ</span></a></li>
+                                </ul>
+                    </div>
+                </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <div class="container contentContain" style="background-color: #282828;">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="tab-content" id="nav-tab-scheduleContent">
+                            <div class="tab-pane fade show active" id="tab-upcoming" role="tabpanel" aria-labelledby="nav-upcoming-tab">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <h1 class="wide-title text-center">StreamEast — Every Live Game, Zero Cost, Instant Access</h1>
+                                        <div class="clearfix"></div>
+
+                                        <!-- Live matches widget -->
+                                        <div class="f1-podium" style="margin: 7px 0;display:block">
+                                            <div class="row Basliklar" style="z-index: 20; padding: 0; border: none; position: relative; margin: auto;">
+                                                <input type="text" onkeyup="Arama2()" id="Arama" placeholder="search games or categories...">
+                                                <div style="margin: 7px;" id="AramaDuzeni"></div>
+                    </div>
+                                            <div class="clearfix"></div>
+                                            <div class="se-loader" id="seLoader" style="display:flex;flex-direction:column;align-items:center;justify-content:center;padding:40px 20px;gap:12px;color:#ccc;">
+                                                <div style="width:32px;height:32px;border:3px solid rgba(255,255,255,.15);border-top-color:#E10601;border-radius:50%;animation:se-spin .7s linear infinite;"></div>
+                                                <span>Loading matches…</span>
+                </div>
+                                            <ul style="padding: 0;" class="f1-color--carbonBlack" id="GelecekMaclar"></ul>
+                                        </div>
+                                        <br>
+
+                                     
+                                      
+
+                                            <script>
+                                                window.toggleFaq = function (button) {
+                                                    var answer = button.nextElementSibling;
+                                                    if (answer.style.display === "none" || answer.style.display === "") {
+                                                        answer.style.display = "block";
+                                                    } else {
+                                                        answer.style.display = "none";
+                                                    }
+                                                }
+                                
+
+                </div>
+                    </div>
+                        </div>
+                        </div>
+                        </div>
+                        </div>
+                        </div>
+
+            <div class="f1-collection f1-bg--gray6 f1-bg--colorTheme mt-4">
+                <div class="container">
+                    <fieldset class="f1-border--top-right f1-border-color--carbonBlack">
+                        <legend><h2 class="f1-bold--m f1-color--white no-margin">More Categories</h2></legend>
+                        <div class="row">
+                            <div class="col-md-6 col-lg-6 col-xl-3 mb-3 mb-md-0">
+                                <a class="f1-cc f1-cc--collection f1-color--white f1-center f1-image--hover-zoom" href="#nba">
+                                    <picture class="f1-cc--collection--photo">
+                                        <img alt="StreamEast NBA" width="250" height="175" src="/images/new/new-nba.webp" onerror="this.style.display='none'">
+                                    </picture>
+                                    <div class="f1-cc--collection--caption"><p class="f1-bold--m">NBA Streams</p></div>
+                                </a>
+                </div>
+                            <div class="col-md-6 col-lg-6 col-xl-3 mb-3 mb-md-0">
+                                <a class="f1-cc f1-cc--collection f1-color--white f1-center f1-image--hover-zoom" href="#nhl">
+                                    <picture class="f1-cc--collection--photo">
+                                        <img alt="StreamEast NHL" width="250" height="175" src="/images/new/new-nhl.webp" onerror="this.style.display='none'">
+                                    </picture>
+                                    <div class="f1-cc--collection--caption"><p class="f1-bold--m">NHL Streams</p></div>
+                                </a>
+                </div>
+                            <div class="col-md-6 col-lg-6 col-xl-3 mb-3 mb-md-0">
+                                <a class="f1-cc f1-cc--collection f1-color--white f1-center f1-image--hover-zoom" href="#mlb">
+                                    <picture class="f1-cc--collection--photo">
+                                        <img alt="StreamEast MLB" width="250" height="175" src="/images/new/new-mlb.webp" onerror="this.style.display='none'">
+                                    </picture>
+                                    <div class="f1-cc--collection--caption"><p class="f1-bold--m">MLB Streams</p></div>
+                                </a>
+                    </div>
+                            <div class="col-md-6 col-lg-6 col-xl-3 mb-3 mb-md-0">
+                                <a class="f1-cc f1-cc--collection f1-color--white f1-center f1-image--hover-zoom" href="#nfl">
+                                    <picture class="f1-cc--collection--photo">
+                                        <img width="250" height="175" alt="StreamEast NFL" src="/images/new/new-nfl.webp" onerror="this.style.display='none'">
+                                    </picture>
+                                    <div class="f1-cc--collection--caption"><p class="f1-bold--m">NFL Streams</p></div>
+                                </a>
+                    </div>
+                    </div>
+                    </fieldset>
+                    </div>
+                    </div>
+        </main>
+
+                </div>
+                    </div>
+
+<footer class="site-footer">
+    <div class="wrap">
+        <p style="color:#ccc;text-align:center;">&copy; 2026 StreamEast — The free sports streaming directory trusted by millions of fans worldwide. No subscriptions. No registration. No fees. Just live sport, instantly accessible on every device, in every country, every single day.</p>
+                    </div>
+    <div class="text-center">
+        <ul class="list-inline mb-0 small">
+            <li class="list-inline-item"><a href="/privacy-policy" class="text-light text-decoration-none">Privacy Policy</a></li>
+            <li class="list-inline-item"><span class="text-muted">|</span></li>
+            <li class="list-inline-item"><a href="/terms" class="text-light text-decoration-none">Terms of Service</a></li>
+            <li class="list-inline-item"><span class="text-muted">|</span></li>
+            <li class="list-inline-item"><a href="/dmca" class="text-light text-decoration-none">DMCA</a></li>
+        </ul>
+                    </div>
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<style>
+@keyframes se-spin { from{transform:rotate(0deg)} to{transform:rotate(360deg)} }
+@keyframes se-live-dot { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:.2;transform:scale(1.5)} }
+.se-cat-label { display:inline-flex !important; align-items:center; gap:5px; }
+.se-sport-icon { font-size:16px; line-height:1; flex-shrink:0; }
+</style>
+
+<script>
+function seInitNav() {
+    window.scrollTo(0, 0);
+    var burger = document.querySelector('.nav-burger');
+    if (!burger) return;
+    burger.addEventListener('click', function () {
+        var wrapper = document.querySelector('.nav-wrapper');
+        var links = document.querySelectorAll('.primary-links li');
+        var mobileWrapper = document.querySelector('.nav-mobile-wrapper');
+        var menuBtn = document.querySelector('.nav-burger .menu');
+        if (wrapper.style.display === 'none' || wrapper.style.display === '') {
+            links.forEach(function(el){ el.classList.add('show-nav'); });
+            mobileWrapper.classList.add('open');
+            menuBtn.classList.add('close');
+            wrapper.style.display = 'block';
+        } else {
+            links.forEach(function(el){ el.classList.remove('show-nav'); });
+            mobileWrapper.classList.remove('open');
+            menuBtn.classList.remove('close');
+            wrapper.style.display = 'none';
+        }
+    });
+}
+document.addEventListener('DOMContentLoaded', seInitNav);
+</script>
+
+<script data-cfasync="false">
+/* ── MATCHES ENGINE ── */
+/* XHR-based fetch wrapper — bypasses Cloudflare Rocket Loader fetch interception */
+function _nativeFetch(url) {
+    return new Promise(function(resolve, reject) {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', url, true);
+        xhr.onload = function() {
+            resolve({
+                ok: xhr.status >= 200 && xhr.status < 300,
+                status: xhr.status,
+                json: function() { return Promise.resolve(JSON.parse(xhr.responseText)); }
+            });
+        };
+        xhr.onerror = function() { reject(new Error('Network error')); };
+        xhr.ontimeout = function() { reject(new Error('Timeout')); };
+        xhr.timeout = 10000;
+        xhr.send();
+    });
+}
+const SE_API_SOURCE   = 'fallback';
+const SE_API_PRIMARY  = 'https://ws.kora-api.space/api/matches';
+const SE_API_FALLBACK = 'https://ws.kora-api.space/api/streamed/matches';
+const SE_API_MATCHES  = SE_API_SOURCE === 'fallback' ? SE_API_FALLBACK : SE_API_PRIMARY;
+const SE_KORA_BASE    = 'https://ws.kora-api.space';
+const SE_KORA_LOGOS   = 'https://ws.kora-api.space/uploads/logos/';
+
+const SE_LANG_FLAGS = {
+    English:'🇬🇧', Spanish:'🇪🇸', Italian:'🇮🇹', Italien:'🇮🇹',
+    Deutch:'🇩🇪', French:'🇫🇷', Portuguese:'🇵🇹', Arabic:'🇸🇦',
+};
+
+/* hash → keywords that must appear in category name (case-insensitive) */
+const SE_SOCCER_KEYWORDS = ['soccer','football','premier','liga','serie','bundesliga','ligue','champions','europa','mls','copa'];
+
+const SE_FILTERS = {
+    nba:    ['nba','basketball'],
+    nfl:    ['nfl','football'],
+    nhl:    ['nhl','hockey'],
+    mlb:    ['mlb','baseball'],
+    ufc:    ['ufc','mma','boxing','combat','fight'],
+    soccer: SE_SOCCER_KEYWORDS,
+};
+
+let seAllMatches = [];
+
+function seDateUTC(offset=0){
+    const d = new Date();
+    d.setUTCDate(d.getUTCDate() + offset);
+    return d.toISOString().slice(0,10);
+}
+
+function seT(){
+    const d = new Date();
+    const p = n => String(n).padStart(2,'0');
+    return `${p(d.getMonth()+1)}${p(d.getDate())}${p(d.getHours())}${p(d.getMinutes())}`;
+}
+
+async function seFetchFromUrl(baseUrl, date){
+    const r = await _nativeFetch(`${baseUrl}?t=${seT()}`);
+    if(!r.ok) throw new Error(`HTTP ${r.status}`);
+    const data = await r.json();
+    let matches = data.data || [];
+    if(data.total > data.per_page){
+        const pages = Math.ceil(data.total / data.per_page);
+        const extra = await Promise.all(
+            Array.from({length: pages-1}, (_,i) =>
+                _nativeFetch(`${baseUrl}?date=${date}&per_page=200&page=${i+2}&t=${seT()}`).then(r=>r.json())
+            )
+        );
+        extra.forEach(p => { matches = matches.concat(p.data || []); });
+    }
+    return matches;
+}
+
+async function seFetchDate(date){
+    if(SE_API_SOURCE === 'auto'){
+        try {
+            return await seFetchFromUrl(SE_API_PRIMARY, date);
+        } catch(e) {
+            console.warn('Primary API failed, switching to fallback:', e.message);
+            return await seFetchFromUrl(SE_API_FALLBACK, date);
+        }
+    }
+    return await seFetchFromUrl(SE_API_MATCHES, date);
+}
+
+function seFormatTime(iso){
+    if(!iso) return '—';
+    const d = new Date(iso), now = new Date(), diff = d - now;
+    if(isNaN(d.getTime())) return '—';
+    if(diff < 0 && diff > -7200000) return 'LIVE';
+    if(diff >= 0 && diff < 3600000) return `In ${Math.round(diff/60000)}m`;
+    const hrs = Math.round(diff/3600000);
+    if(hrs < 24) return `${hrs} hour${hrs!==1?'s':''} from now`;
+    return d.toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'});
+}
+
+function seGetFilter(){
+    return location.hash.replace('#','').toLowerCase();
+}
+
+function seIsSoccer(m) {
+    const cat   = (m.category?.name || '').toLowerCase();
+    const sport = (m.category?.sport_code || '').toLowerCase();
+    /* exclude american-football from soccer detection */
+    if (cat.includes('american') || sport.includes('american')) return false;
+    return SE_SOCCER_KEYWORDS.some(k => cat.includes(k) || sport.includes(k));
+}
+
+function seFilterMatches(matches){
+    const hash = seGetFilter();
+    const keywords = SE_FILTERS[hash];
+    if(!keywords) {
+        /* no filter = show all except soccer only if kora has soccer data */
+        if(seKoraMatches.length > 0) {
+            return matches.filter(m => !seIsSoccer(m));
+        }
+        return matches;
+    }
+    return matches.filter(m => {
+        const cat = (m.category?.name || '').toLowerCase();
+        const sport = (m.category?.sport_code || '').toLowerCase();
+        return keywords.some(k => cat.includes(k) || sport.includes(k));
+    });
+}
+
+const SE_SPORT_ICONS = {
+    soccer:     '⚽', football:   '🏈', basketball: '🏀', baseball:   '⚾',
+    hockey:     '🏒', tennis:     '🎾', volleyball: '🏐', rugby:      '🏉',
+    cricket:    '🏏', boxing:     '🥊', mma:        '🥋', ufc:        '🥋',
+    wrestling:  '🤼', racing:     '🏎️', formula:    '🏎️', f1:         '🏎️',
+    motogp:     '🏍️', cycling:    '🚴', golf:       '⛳', swimming:   '🏊',
+    athletics:  '🏃', handball:   '🤾', badminton:  '🏸', tableten:   '🏓',
+    esports:    '🎮', darts:      '🎯', snooker:    '🎱', pool:       '🎱',
+};
+
+function seGetSportIcon(sport, catName) {
+    const s = sport.toLowerCase();
+    const c = catName.toLowerCase();
+    for (const [key, icon] of Object.entries(SE_SPORT_ICONS)) {
+        if (s.includes(key) || c.includes(key)) return icon;
+    }
+    /* fallback by common category name words */
+    if (c.includes('nba') || c.includes('basket'))   return '🏀';
+    if (c.includes('nfl') || c.includes('american')) return '🏈';
+    if (c.includes('nhl') || c.includes('ice'))      return '🏒';
+    if (c.includes('mlb'))                           return '⚾';
+    if (c.includes('ufc') || c.includes('fight'))    return '🥋';
+    if (c.includes('box'))                           return '🥊';
+    if (c.includes('premier') || c.includes('liga') || c.includes('serie') || c.includes('bundesliga') || c.includes('ligue') || c.includes('champion')) return '⚽';
+    return '🏆';
+}
+
+function seRenderMatches(){
+    const ul = document.getElementById('GelecekMaclar');
+    const hash = seGetFilter();
+    const filtered = seFilterMatches(seAllMatches);
+
+    /* update active nav link */
+    document.querySelectorAll('.primary-links a').forEach(a => {
+        const slug = a.getAttribute('href').replace('#','');
+        a.parentElement.classList.toggle('active-filter', slug === hash);
+        a.style.backgroundColor = (slug === hash) ? '#930f0d' : '';
+    });
+
+    if(!filtered.length){
+        const label = hash ? hash.toUpperCase() : 'today';
+        ul.innerHTML = `<li style="color:#ccc;padding:20px;text-align:center;">No ${label} matches found.</li>`;
+        return;
+    }
+
+    const koraSectionHtml = seKoraRender(seKoraMatches);
+
+    ul.innerHTML = koraSectionHtml + filtered.map(m => {
+        const catName  = m.category?.name || 'Other';
+        const sport    = (m.category?.sport_code || m.category?.name || '').toLowerCase();
+        const catColor = m.is_live ? '#e10600' : '#002D72';
+        const timeStr  = m.is_live ? '<span style="color:#930f0d;font-weight:bold;display:inline-flex;align-items:center;gap:5px;"><span style="width:8px;height:8px;border-radius:50%;background:#e10600;display:inline-block;animation:se-live-dot 1.2s ease-in-out infinite;flex-shrink:0;"></span>LIVE</span>' : seFormatTime(m.begin_at);
+        const icon     = seGetSportIcon(sport, catName);
+        return `
+<li class="f1-podium--item${m.is_live ? ' btn-live' : ''}">
+    <a href="https://streameast.smartagro.mov${SE_API_SOURCE === 'fallback' ? '/strmd-stream.html' : '/stream.html'}?id=${m.id}" class="f1-podium--link f1-bg--white" target="_blank" rel="nofollow noreferrer noopener">
+        <span class="f1-podium--rank f1-bold--xs se-cat-label" style="min-width:35px;width:unset;"><span class="se-sport-icon">${icon}</span>${catName}${(m.is_popular || m.popular) ? ' <span style="font-size:10px;background:#e10600;color:#fff;border-radius:3px;padding:1px 4px;vertical-align:middle;">HOT</span>' : ''}</span>
+        <span class="team-color-icon" style="background-color:${catColor}"></span>
+        <span class="f1-podium--driver f1--xs MacBaslik">
+            <span class="d-md-inline">${m.name}</span>
+        </span>
+        <span class="f1-podium-right">
+            <span style="font-weight:bold;" class="f1-podium--time f1-label f1-bg--gray2 misc--label text-semi-bold">${timeStr}</span>
+            <i class="icon icon-chevron-right f1-color--warmRed"></i>
+        </span>
+    </a>
+</li>`;
+    }).join('');
+}
+
+/* ── KORA SOCCER (top section) ── */
+function seKoraDate() {
+    const d = new Date();
+    const p = n => String(n).padStart(2, '0');
+    return `${d.getFullYear()}-${p(d.getMonth()+1)}-${p(d.getDate())}`;
+}
+function seKoraT() {
+    const d = new Date();
+    const p = n => String(n).padStart(2, '0');
+    return `${d.getFullYear()}${p(d.getMonth()+1)}${p(d.getDate())}${p(d.getHours())}${p(d.getMinutes())}`;
+}
+
+async function seKoraFetch() {
+    const r = await _nativeFetch(`${SE_KORA_BASE}/api/matches/${seKoraDate()}/1?t=${seKoraT()}`);
+    const data = await r.json();
+    const liveIds = new Set(data.live_matche_ids || []);
+    return (data.matches || []).map(m => ({ ...m, is_live: liveIds.has(String(m.id)) }));
+}
+
+function seKoraRender(matches) {
+    const hash = seGetFilter();
+    /* only show soccer section when no filter or soccer filter active */
+    const show = !hash || ['soccer','nba','nfl','nhl','mlb','ufc'].every(k => hash !== k) || hash === 'soccer';
+    if (!show || !matches.length) return '';
+
+    const rows = matches.map(m => {
+        const name     = `${m.home_en || m.home} vs ${m.away_en || m.away}`;
+        const league   = m.league_en || m.league || 'Soccer';
+        const isLive   = m.is_live;
+        const score    = m.score && m.score !== '-' ? `<span style="background:#e10600;color:#fff;font-size:11px;padding:1px 6px;border-radius:4px;margin-left:5px;">${m.score}</span>` : '';
+        const timeStr  = isLive
+            ? `<span style="color:#930f0d;font-weight:bold;display:inline-flex;align-items:center;gap:5px;"><span style="width:8px;height:8px;border-radius:50%;background:#e10600;display:inline-block;animation:se-live-dot 1.2s ease-in-out infinite;flex-shrink:0;"></span>LIVE</span>`
+            : m.time || '';
+        const homeLogo = m.home_logo ? `<img src="${SE_KORA_LOGOS}${m.home_logo}" width="20" height="20" style="vertical-align:middle;margin-right:4px;object-fit:contain;" onerror="this.style.display='none'" alt="${m.home_en}">` : '';
+        const awayLogo = m.away_logo ? `<img src="${SE_KORA_LOGOS}${m.away_logo}" width="20" height="20" style="vertical-align:middle;margin-right:4px;object-fit:contain;" onerror="this.style.display='none'" alt="${m.away_en}">` : '';
+        const edges    = (m.edges || []).slice(0, 6);
+        const streamUrl = (m.active == '1' && m.has_channels == '1')
+            ? `https://streameast.smartagro.mov/?m=${m.id}&lang=en`
+            : (edges.length && m.edge_domain ? `#` : '#');
+
+        return `
+<li class="f1-podium--item${isLive ? ' btn-live' : ''}" style="border-left:3px solid ${isLive ? '#e10600' : '#002D72'};">
+    <a href="${streamUrl}" class="f1-podium--link f1-bg--white" target="_blank" rel="nofollow noreferrer noopener">
+        <span class="f1-podium--rank f1-bold--xs se-cat-label" style="min-width:35px;width:unset;"><span class="se-sport-icon">⚽</span>${league}${score}</span>
+        <span class="team-color-icon" style="background-color:${isLive ? '#e10600' : '#002D72'}"></span>
+        <span class="f1-podium--driver f1--xs MacBaslik">
+            <span class="d-md-inline">${homeLogo}${m.home_en || m.home} vs ${awayLogo}${m.away_en || m.away}</span>
+        </span>
+        <span class="f1-podium-right">
+            <span style="font-weight:bold;" class="f1-podium--time f1-label f1-bg--gray2 misc--label text-semi-bold">${timeStr}</span>
+            <i class="icon icon-chevron-right f1-color--warmRed"></i>
+        </span>
+    </a>
+</li>`;
+    }).join('');
+
+    return `
+<li style="padding:6px 0 2px;list-style:none;">
+    <span style="display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:700;color:#aaa;text-transform:uppercase;letter-spacing:.08em;border-bottom:1px solid #333;padding-bottom:4px;width:100%;">
+        ⚽ Soccer — Live &amp; Upcoming
+    </span>
+</li>
+${rows}
+<li style="padding:6px 0 2px;list-style:none;">
+    <span style="display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:700;color:#aaa;text-transform:uppercase;letter-spacing:.08em;border-bottom:1px solid #333;padding-bottom:4px;width:100%;">
+        🏆 All Sports
+    </span>
+</li>`;
+}
+
+let seKoraMatches = [];
+
+async function seFetchAll(){
+    try {
+        let matches = [];
+        const date0 = seDateUTC(0), date1 = seDateUTC(1);
+
+        if(SE_API_SOURCE === 'auto'){
+            try {
+                const [t, tm] = await Promise.all([
+                    seFetchFromUrl(SE_API_PRIMARY, date0),
+                    seFetchFromUrl(SE_API_PRIMARY, date1),
+                ]);
+                matches = [...t, ...tm];
+            } catch(e) {
+                console.warn('Primary API down, switching to fallback:', e.message);
+                const [t, tm] = await Promise.all([
+                    seFetchFromUrl(SE_API_FALLBACK, date0),
+                    seFetchFromUrl(SE_API_FALLBACK, date1),
+                ]);
+                matches = [...t, ...tm];
+            }
+        } else {
+            const [t, tm] = await Promise.all([
+                seFetchFromUrl(SE_API_MATCHES, date0),
+                seFetchFromUrl(SE_API_MATCHES, date1),
+            ]);
+            matches = [...t, ...tm];
+        }
+
+        const kora = await seKoraFetch().catch(() => []);
+
+        const now = Date.now();
+        const seen = new Set();
+        seAllMatches = matches.filter(m => {
+            if(seen.has(m.id)) return false;
+            seen.add(m.id);
+            /* hide matches that started more than 8h ago and aren't live */
+            if(m.begin_at && !m.is_live){
+                const ts = new Date(m.begin_at).getTime();
+                if(ts < now - 28800000) return false;
+            }
+            return true;
+        }).sort((a, b) => {
+            /* LIVE first, then upcoming ASC, nulls (channels) last */
+            if(a.is_live !== b.is_live) return a.is_live ? -1 : 1;
+            if(!a.begin_at && !b.begin_at) return 0;
+            if(!a.begin_at) return 1;
+            if(!b.begin_at) return -1;
+            return new Date(a.begin_at) - new Date(b.begin_at);
+        });
+        seKoraMatches = kora;
+
+        document.getElementById('seLoader').style.display = 'none';
+        seRenderMatches();
+
+    } catch(e) {
+        /* auto-retry once after 3s before showing error */
+        if (!seFetchAll._retried) {
+            seFetchAll._retried = true;
+            setTimeout(() => { seFetchAll._retried = false; seFetchAll(); }, 3000);
+        } else {
+            document.getElementById('seLoader').innerHTML = '<span style="color:#ccc;">⚠️ Could not load matches. Please refresh.</span>';
+        }
+    }
+}
+
+/* Re-filter on hash change (nav click) without re-fetching */
+window.addEventListener('hashchange', () => {
+    /* scroll to top of match list */
+    const el = document.getElementById('GelecekMaclar');
+    if(el) el.scrollIntoView({behavior:'smooth', block:'start'});
+    seRenderMatches();
+});
+
+/* Also intercept nav clicks to prevent default anchor jump when matches are above */
+document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.primary-links a[href^="#"]').forEach(a => {
+        a.addEventListener('click', e => {
+            e.preventDefault();
+            const hash = a.getAttribute('href');
+            history.pushState(null, '', hash);
+            window.dispatchEvent(new HashChangeEvent('hashchange'));
+        });
+        });
+    });
+
+seFetchAll();
+setInterval(seFetchAll, 180000);
+</script>
+
+
+<script data-cfasync="false" async type="text/javascript" src="//slayingbugeyes.com/gezVN2HHKlLdVG/83292"></script>
+
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"d92db3e0c1bf4a26b521243ded1d444d","r":1}' crossorigin="anonymous"></script>
 </body>
 </html>
+
